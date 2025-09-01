@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello!
+*itálico* _itálico_
 
+**negrito** __negrito__
+
+___negrito e itálico___
+
+- Lista 1
+- Lista 2
+  - Sublista
 <!--
 **geovannapires/geovannapires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
