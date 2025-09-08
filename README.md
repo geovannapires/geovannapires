@@ -1,7 +1,4 @@
-<head>
-  
-</head>
-<body>
+
   <h2 align="center">Olá! Bem-vindos ao meu Github</h2>
   <p>
   Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Jataí. <br>
@@ -24,8 +21,30 @@
 ------
 ## Status
 
-[![card](https://github-readme-stats.vercel.app/api?username=geovannapires&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannapires&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=geovannapires&theme=dark&show_icons=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannapires&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=geovannapires&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-
-  </body>
