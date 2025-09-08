@@ -2,7 +2,7 @@
   
 </head>
 <body>
-  <h2 align="center">Opa, eai! Aqui é a Geovanna✌️</h2>
+  <h2 align="center">Olá! Bem-vindos ao meu Github</h2>
   <p>
   Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Jataí. <br>
   Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br>
