@@ -3,7 +3,7 @@
   <p>
   Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Jataí. <br>
   Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br>
-  Em busca da primeira oportunidade no mercado de trabalho
+  Em busca da primeira oportunidade no mercado de trabalho.
 
   ## Minhas Skills
 
