@@ -1,9 +1,9 @@
 
   <h2 align="center">Olá! Bem-vindos ao meu Github</h2>
   <p>
-  Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Jataí. <br>
+  Graduada em <strong>Ciência da Computação</strong> pela Universidade Federal de Jataí. <br>
+  Mestranda em <strong>Ciência da Computação</strong> pela Universidade Federal do Rio Grande do Sul. <br>
   Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br>
-  Em busca da primeira oportunidade no mercado de trabalho.
 
   ## Minhas Skills
 
