@@ -1,8 +1,8 @@
 
   <h2 align="center">Olá! Bem-vindos ao meu Github</h2>
   <p>
-  Graduada em <strong>Ciência da Computação</strong> pela Universidade Federal de Jataí. <br>
-  Mestranda em <strong>Ciência da Computação</strong> pela Universidade Federal do Rio Grande do Sul. <br>
+  Graduada em <strong>Ciência da Computação</strong> pela <strong>Universidade Federal de Jataí.</strong> <br>
+  Mestranda em <strong>Ciência da Computação</strong> pela <strong>Universidade Federal do Rio Grande do Sul. </strong><br>
   Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br>
 
   ## Minhas Skills
