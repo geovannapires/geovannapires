@@ -17,7 +17,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
 
-------
+<!-- ------
 ## Status
 
 <table>
@@ -38,7 +38,6 @@
     </td>
 </table>
 
-<!--
 ## Onde me encontrar
 
 <p align="left">
