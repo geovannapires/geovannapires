@@ -3,7 +3,7 @@
   <p>
   Graduada em <strong>Ciência da Computação</strong> pela <strong>Universidade Federal de Jataí.</strong> <br>
   Mestranda em <strong>Ciência da Computação</strong> pela <strong>Universidade Federal do Rio Grande do Sul. </strong><br>
-  Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br>
+  <!-- Apaixonada por tecnologia e por criar projetos que gerem <strong>impacto positivo</strong>. <br> -->
 
   ## Minhas Skills
 
